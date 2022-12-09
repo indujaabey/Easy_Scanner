@@ -1,0 +1,18 @@
+
+Host: 192.168.56.104
+Service: ssh
+Port: 22
+Username: msfadmin
+Password: msfadmin
+
+Host: 192.168.56.104
+Service: ssh
+Port: 22
+Username: msfadmin
+Password: msfadmin
+
+Host: 192.168.56.104
+Service: ssh
+Port: 22
+Username: msfadmin
+Password: msfadmin

